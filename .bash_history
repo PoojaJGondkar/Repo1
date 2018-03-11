@@ -69,3 +69,18 @@ sudo chmod -R ugo+rw /etc/yum.conf
 chmod -R ugo+rw /etc/yum.conf 
 sudo chmod -R ugo+rw /etc/yum.conf 
 su 
+ip address
+java --version
+yum install java
+cd 
+su
+ip address
+ clear
+git init
+ls -al
+git status
+vi guru.txt
+echo "this is pooja">>pooja.txt
+git status
+git add guru.txt 
+su 
