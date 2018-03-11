@@ -59,3 +59,13 @@ cd /opt
 vim helloworld.sh
 yum install vim
 vi helloworld.sh
+ip address
+yum install git
+chown -R a+x /etc/yum.conf 
+chmod -R a+x /etc/yum.conf 
+chmod -R 777  /etc/yum.conf 
+chmod -R 777 /etc/yum.conf 
+sudo chmod -R ugo+rw /etc/yum.conf 
+chmod -R ugo+rw /etc/yum.conf 
+sudo chmod -R ugo+rw /etc/yum.conf 
+su 
